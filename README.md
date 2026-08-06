@@ -155,12 +155,22 @@ Domains I work across, animated.
 </svg>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+Live profile stats pulled from GitHub — count, activity, languages, and streak.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=hamza-0987&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=hamza-0987&theme=github-dark" alt="hamza-0987 stats section" />
-  </picture>
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github" alt="GitSkins Animated Profile" width="820" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=persona&avatar=github" alt="GitSkins Persona Profile" width="820" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=stats&avatar=github" alt="GitSkins Stats Card" width="600" />
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=languages&avatar=github" alt="GitSkins Languages" width="450" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=streak&avatar=github" alt="GitSkins Streak" width="600" />
 </p>
 ## Projects
 Highlights repositories as proof of work.
