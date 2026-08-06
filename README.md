@@ -1,4 +1,3 @@
-
 <p align="center">
 
 <!-- =========================================================== -->
@@ -152,7 +151,7 @@
   <!-- name -->
   <text x="260" y="372" text-anchor="middle" font-size="42" font-weight="800" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" fill="#ffffff">HAMZA</text>
   <text x="260" y="400" text-anchor="middle" font-size="17" fill="#8b9fb4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">Python Developer &#160;•&#160; AI Engineer</text>
-  <text x="260" y="430" text-anchor="middle" font-size="16" fill="#5c7291" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">Karachi, Pakistan 🇵🇰</text>
+  <text x="260" y="430" text-anchor="middle" font-size="16" fill="#5c7291" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">Karachi, Pakistan &#127479;&#127481;</text>
 
   <!-- open to work badge -->
   <g transform="translate(150,456)">
@@ -166,12 +165,12 @@
 
   <!-- footer stats strip -->
   <g>
-    <text x="150" y="515" text-anchor="middle" font-size="24" font-weight="700" fill="#a5f3fc">34</text>
-    <text x="150" y="535" text-anchor="middle" font-size="12" fill="#7689a6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">contributions</text>
-    <text x="260" y="515" text-anchor="middle" font-size="24" font-weight="700" fill="#d8b4fe">7</text>
-    <text x="260" y="535" text-anchor="middle" font-size="12" fill="#8a86aa" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">followers</text>
-    <text x="376" y="515" text-anchor="middle" font-size="24" font-weight="700" fill="#f9a8d4">56</text>
-    <text x="376" y="535" text-anchor="middle" font-size="12" fill="#9c86c4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">repositories</text>
+    <text x="150" y="515" text-anchor="middle" font-size="24" font-weight="700" fill="#a5f3fc">56</text>
+    <text x="150" y="535" text-anchor="middle" font-size="12" fill="#7689a6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">repositories</text>
+    <text x="260" y="515" text-anchor="middle" font-size="24" font-weight="700" fill="#d8b4fe">34</text>
+    <text x="260" y="535" text-anchor="middle" font-size="12" fill="#8a86aa" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">contributions</text>
+    <text x="376" y="515" text-anchor="middle" font-size="24" font-weight="700" fill="#f9a8d4">7</text>
+    <text x="376" y="535" text-anchor="middle" font-size="12" fill="#9c86c4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">followers</text>
   </g>
 </svg>
 
@@ -185,8 +184,8 @@
 <h2 align="center">🧑‍💻 &nbsp;About Me</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="240" align="left" alt="coding"/>
-  <b>Python Developer &amp; AI Engineer</b> building scalable applications and AI-driven solutions. I pour my energy into <b>Machine Learning</b>, <b>Deep Learning</b> and production-grade systems — from <b>RAG pipelines</b> and <b>multi-agent frameworks</b> to geospatial &amp; data tooling.
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="230" align="left" alt="coding"/>
+  <b>Python Developer &amp; AI Engineer</b> based in Karachi, Pakistan. I build <b>scalable applications</b> and <b>AI-driven solutions</b> — focused on <b>Machine Learning</b>, <b>Deep Learning</b>, and production-ready systems.
   <br/><br/>
   ☕ Fueled by coffee, driven by curiosity — I love turning messy data into meaningful intelligence.
 </p>
@@ -202,17 +201,116 @@
 <br>
 
 <!-- =========================================================== -->
-<!--  LIVE GITHUB STATS                                           -->
+<!--  LIVE GITHUB STATS (always-loading animated SVG)            -->
 <!-- =========================================================== -->
-<h2 align="center">⚡ &nbsp;Live GitHub Pulse</h2>
+<h2 align="center">⚡ &nbsp;GitHub in Numbers</h2>
 
-<p align="center">
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=hamza-0987&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats"/>
-  <img width="330" src="https://streak-stats.demolab.com?user=hamza-0987&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&sideLabels=c9d1d9&currStreakLabel=a78bfa&stroke=a78bfa" alt="streak"/>
-</p>
+<svg width="100%" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub statistics">
+  <defs>
+    <linearGradient id="sg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="24" fill="#0d1117" stroke="#21262d"/>
 
+  <!-- tile 1 : repositories -->
+  <g>
+    <rect x="60" y="55" width="180" height="120" rx="16" fill="#161b22" stroke="#21262d"/>
+    <text x="150" y="98" text-anchor="middle" font-size="28">🗂️</text>
+    <text x="150" y="138" text-anchor="middle" font-size="34" font-weight="800" fill="#a5f3fc">56</text>
+    <text x="150" y="160" text-anchor="middle" font-size="13" fill="#7689a6">Repositories</text>
+    <animate attributeName="opacity" values="0;1" dur="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,16;0,0" dur="0.7s" fill="freeze"/>
+  </g>
+
+  <!-- tile 2 : stars -->
+  <g>
+    <rect x="260" y="55" width="180" height="120" rx="16" fill="#161b22" stroke="#21262d"/>
+    <text x="350" y="98" text-anchor="middle" font-size="28">⭐</text>
+    <text x="350" y="138" text-anchor="middle" font-size="34" font-weight="800" fill="#fde68a">4</text>
+    <text x="350" y="160" text-anchor="middle" font-size="13" fill="#7689a6">Total Stars</text>
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,16;0,0" dur="0.7s" begin="0.15s" fill="freeze"/>
+  </g>
+
+  <!-- tile 3 : contributions -->
+  <g>
+    <rect x="460" y="55" width="180" height="120" rx="16" fill="#161b22" stroke="#21262d"/>
+    <text x="550" y="98" text-anchor="middle" font-size="28">📈</text>
+    <text x="550" y="138" text-anchor="middle" font-size="34" font-weight="800" fill="#d8b4fe">34</text>
+    <text x="550" y="160" text-anchor="middle" font-size="13" fill="#7689a6">Contributions</text>
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,16;0,0" dur="0.7s" begin="0.3s" fill="freeze"/>
+  </g>
+
+  <!-- tile 4 : followers -->
+  <g>
+    <rect x="660" y="55" width="180" height="120" rx="16" fill="#161b22" stroke="#21262d"/>
+    <text x="750" y="98" text-anchor="middle" font-size="28">👥</text>
+    <text x="750" y="138" text-anchor="middle" font-size="34" font-weight="800" fill="#f9a8d4">7</text>
+    <text x="750" y="160" text-anchor="middle" font-size="13" fill="#7689a6">Followers</text>
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,16;0,0" dur="0.7s" begin="0.45s" fill="freeze"/>
+  </g>
+
+  <!-- streak line -->
+  <rect x="60" y="192" width="780" height="6" rx="3" fill="#161b22"/>
+  <rect x="60" y="192" width="0" height="6" rx="3" fill="url(#sg)">
+    <animate attributeName="width" from="0" to="780" dur="2s" begin="0.6s" fill="freeze"/>
+  </rect>
+</svg>
+
+<br>
+
+<!-- =========================================================== -->
+<!--  HIGHLIGHTS PILLS (replaces trophy service)                 -->
+<!-- =========================================================== -->
+<h2 align="center">🏆 &nbsp;Highlights</h2>
+
+<svg width="100%" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Highlights">
+  <g>
+    <rect x="25" y="30" width="130" height="46" rx="23" fill="#22d3ee" opacity="0.12"/>
+    <text x="46" y="61" text-anchor="middle" font-size="20">🐍</text>
+    <text x="72" y="60" font-size="14" font-weight="600" fill="#a5f3fc">Python</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="169" y="30" width="150" height="46" rx="23" fill="#7c3aed" opacity="0.2"/>
+    <text x="194" y="61" text-anchor="middle" font-size="20">🤖</text>
+    <text x="220" y="60" font-size="14" font-weight="600" fill="#d8b4fe">AI Engineer</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3.2s" begin="0.2s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="333" y="30" width="130" height="46" rx="23" fill="#f472b6" opacity="0.15"/>
+    <text x="354" y="61" text-anchor="middle" font-size="20">🧠</text>
+    <text x="380" y="60" font-size="14" font-weight="600" fill="#f9a8d4">ML &amp; DL</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3.4s" begin="0.4s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="477" y="30" width="150" height="46" rx="23" fill="#10b981" opacity="0.15"/>
+    <text x="502" y="61" text-anchor="middle" font-size="20">📚</text>
+    <text x="528" y="60" font-size="14" font-weight="600" fill="#6ee7b7">Open Source</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="641" y="30" width="130" height="46" rx="23" fill="#f59e0b" opacity="0.15"/>
+    <text x="662" y="61" text-anchor="middle" font-size="20">🔎</text>
+    <text x="688" y="60" font-size="14" font-weight="600" fill="#fcd34d">RAG &amp; NLP</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3.8s" begin="0.8s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="745" y="30" width="130" height="46" rx="23" fill="#38bdf8" opacity="0.15"/>
+    <text x="766" y="61" text-anchor="middle" font-size="20">⚙️</text>
+    <text x="792" y="60" font-size="14" font-weight="600" fill="#7dd3fc">Backend</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </g>
+</svg>
+
+<br>
+
+<!-- streak (reliable external service) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamza-0987&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" width="90%" alt="trophies"/>
+  <img width="520" src="https://streak-stats.demolab.com?user=hamza-0987&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&sideLabels=c9d1d9&currStreakLabel=a78bfa&stroke=a78bfa" alt="streak"/>
 </p>
 
 <p align="center">
@@ -338,7 +436,7 @@
     <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
     <text x="120" y="110" text-anchor="middle" font-size="22">🌍</text>
     <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Geospatial / GIS</text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="2.9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0;-5;0,0" dur="2.9s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(280,120)">
     <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
@@ -371,40 +469,214 @@
 <br>
 
 <!-- =========================================================== -->
-<!--  FEATURED PROJECTS                                          -->
+<!--  FEATURED PROJECTS (always-loading animated SVG grid)       -->
 <!-- =========================================================== -->
 <h2 align="center">🗂️ &nbsp;Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/hamza-0987/multi-agent-system"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=multi-agent-system&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="multi-agent-system"/></a>
-  <a href="https://github.com/hamza-0987/text2sql"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=text2sql&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="text2sql"/></a>
-  <a href="https://github.com/hamza-0987/easy-rag"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=easy-rag&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="easy-rag"/></a>
-  <a href="https://github.com/hamza-0987/neo4j-rag-example"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=neo4j-rag-example&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="neo4j-rag-example"/></a>
-  <a href="https://github.com/hamza-0987/unified-arhitecture-thesis-app"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=unified-arhitecture-thesis-app&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="thesis app"/></a>
-  <a href="https://github.com/hamza-0987/github2diagram"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=github2diagram&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="github2diagram"/></a>
-</p>
+<svg viewBox="0 0 900 550" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured projects grid">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ============ row 1 ============ -->
+  <g>
+    <a href="https://github.com/hamza-0987/multi-agent-system" target="_blank">
+      <rect x="30" y="20" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="46" y="54" font-size="16" font-weight="700" fill="#a5f3fc">multi-agent-system</text>
+      <circle cx="46" cy="80" r="4" fill="#3572A5"/>
+      <text x="57" y="84" font-size="11" fill="#8b9fb4">Python</text>
+      <text x="46" y="106" font-size="12" fill="#c9d1d9">AutoGen Studio, Groq LLM + MCP</text>
+      <text x="46" y="124" font-size="12" fill="#8b9fb4">agent integrations</text>
+      <line x1="46" y1="142" x2="284" y2="142" stroke="#21262d"/>
+      <text x="46" y="162" font-size="12" fill="#fde68a">★ 1</text>
+      <text x="284" y="162" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" fill="freeze"/>
+  </g>
+  <g>
+    <a href="https://github.com/hamza-0987/text2sql" target="_blank">
+      <rect x="315" y="20" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="331" y="54" font-size="16" font-weight="700" fill="#a5f3fc">text2sql</text>
+      <circle cx="331" cy="80" r="4" fill="#3572A5"/>
+      <text x="342" y="84" font-size="11" fill="#8b9fb4">Python</text>
+      <text x="331" y="106" font-size="12" fill="#c9d1d9">Natural language questions</text>
+      <text x="331" y="124" font-size="12" fill="#8b9fb4">→ SQL queries</text>
+      <line x1="331" y1="142" x2="569" y2="142" stroke="#21262d"/>
+      <text x="331" y="162" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="569" y="162" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.1s" fill="freeze"/>
+  </g>
+  <g>
+    <a href="https://github.com/hamza-0987/easy-rag" target="_blank">
+      <rect x="600" y="20" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="616" y="54" font-size="16" font-weight="700" fill="#a5f3fc">easy-rag</text>
+      <circle cx="616" cy="80" r="4" fill="#3572A5"/>
+      <text x="627" y="84" font-size="11" fill="#8b9fb4">Python</text>
+      <text x="616" y="106" font-size="12" fill="#c9d1d9">Lightweight, flexible RAG</text>
+      <text x="616" y="124" font-size="12" fill="#8b9fb4">framework</text>
+      <line x1="616" y1="142" x2="854" y2="142" stroke="#21262d"/>
+      <text x="616" y="162" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="854" y="162" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.2s" fill="freeze"/>
+  </g>
+
+  <!-- ============ row 2 ============ -->
+  <g>
+    <a href="https://github.com/hamza-0987/neo4j-rag-example" target="_blank">
+      <rect x="30" y="190" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="46" y="224" font-size="16" font-weight="700" fill="#a5f3fc">neo4j-rag-example</text>
+      <circle cx="46" cy="250" r="4" fill="#DA5B0B"/>
+      <text x="57" y="254" font-size="11" fill="#8b9fb4">Jupyter</text>
+      <text x="46" y="276" font-size="12" fill="#c9d1d9">Graph-powered retrieval</text>
+      <text x="46" y="294" font-size="12" fill="#8b9fb4">with Neo4j</text>
+      <line x1="46" y1="312" x2="284" y2="312" stroke="#21262d"/>
+      <text x="46" y="332" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="284" y="332" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.3s" fill="freeze"/>
+  </g>
+  <g>
+    <a href="https://github.com/hamza-0987/unified-arhitecture-thesis-app" target="_blank">
+      <rect x="315" y="190" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="331" y="224" font-size="16" font-weight="700" fill="#a5f3fc">thesis-app</text>
+      <circle cx="331" cy="250" r="4" fill="#3178c6"/>
+      <text x="342" y="254" font-size="11" fill="#8b9fb4">TypeScript</text>
+      <text x="331" y="276" font-size="12" fill="#c9d1d9">Full-stack unified architecture</text>
+      <text x="331" y="294" font-size="12" fill="#8b9fb4">thesis application</text>
+      <line x1="331" y1="312" x2="569" y2="312" stroke="#21262d"/>
+      <text x="331" y="332" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="569" y="332" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.4s" fill="freeze"/>
+  </g>
+  <g>
+    <a href="https://github.com/hamza-0987/github2diagram" target="_blank">
+      <rect x="600" y="190" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="616" y="224" font-size="16" font-weight="700" fill="#a5f3fc">github2diagram</text>
+      <circle cx="616" cy="250" r="4" fill="#e34c26"/>
+      <text x="627" y="254" font-size="11" fill="#8b9fb4">HTML</text>
+      <text x="616" y="276" font-size="12" fill="#c9d1d9">Turn GitHub data into</text>
+      <text x="616" y="294" font-size="12" fill="#8b9fb4">diagrams</text>
+      <line x1="616" y1="312" x2="854" y2="312" stroke="#21262d"/>
+      <text x="616" y="332" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="854" y="332" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.5s" fill="freeze"/>
+  </g>
+
+  <!-- ============ row 3 ============ -->
+  <g>
+    <a href="https://github.com/hamza-0987/shaheenviz" target="_blank">
+      <rect x="30" y="360" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="46" y="394" font-size="16" font-weight="700" fill="#a5f3fc">shaheenviz</text>
+      <circle cx="46" cy="420" r="4" fill="#3572A5"/>
+      <text x="57" y="424" font-size="11" fill="#8b9fb4">Python</text>
+      <text x="46" y="446" font-size="12" fill="#c9d1d9">Geospatial data</text>
+      <text x="46" y="464" font-size="12" fill="#8b9fb4">visualization</text>
+      <line x1="46" y1="482" x2="284" y2="482" stroke="#21262d"/>
+      <text x="46" y="502" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="284" y="502" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.6s" fill="freeze"/>
+  </g>
+  <g>
+    <a href="https://github.com/hamza-0987/stocksage" target="_blank">
+      <rect x="315" y="360" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="331" y="394" font-size="16" font-weight="700" fill="#a5f3fc">stocksage</text>
+      <circle cx="331" cy="420" r="4" fill="#3572A5"/>
+      <text x="342" y="424" font-size="11" fill="#8b9fb4">Python</text>
+      <text x="331" y="446" font-size="12" fill="#c9d1d9">Stock market insights</text>
+      <text x="331" y="464" font-size="12" fill="#8b9fb4">&amp; analysis</text>
+      <line x1="331" y1="482" x2="569" y2="482" stroke="#21262d"/>
+      <text x="331" y="502" font-size="12" fill="#fde68a">★ 0</text>
+      <text x="569" y="502" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.7s" fill="freeze"/>
+  </g>
+  <g>
+    <a href="https://github.com/hamza-0987/Rolex-watch" target="_blank">
+      <rect x="600" y="360" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
+      <text x="616" y="394" font-size="16" font-weight="700" fill="#a5f3fc">Rolex-watch</text>
+      <circle cx="616" cy="420" r="4" fill="#663399"/>
+      <text x="627" y="424" font-size="11" fill="#8b9fb4">CSS</text>
+      <text x="616" y="446" font-size="12" fill="#c9d1d9">Luxury watch crafted</text>
+      <text x="616" y="464" font-size="12" fill="#8b9fb4">in pure CSS</text>
+      <line x1="616" y1="482" x2="854" y2="482" stroke="#21262d"/>
+      <text x="616" y="502" font-size="12" fill="#fde68a">★ 1</text>
+      <text x="854" y="502" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.8s" fill="freeze"/>
+  </g>
+</svg>
 
 <details align="center">
-  <summary><b>More repos</b></summary>
+  <summary><b>🧭 Explore more repositories</b></summary>
+  <br>
   <p align="center">
-    <a href="https://github.com/hamza-0987/shaheenviz"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=shaheenviz&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="shaheenviz"/></a>
-    <a href="https://github.com/hamza-0987/stocksage"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=stocksage&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="stocksage"/></a>
-    <a href="https://github.com/hamza-0987/Rolex-watch"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-0987&repo=Rolex-watch&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=c9d1d9&hide_border=true" alt="Rolex-watch"/></a>
+    <a href="https://github.com/hamza-0987/shaheenai-github">shaheenai-github</a> •
+    <a href="https://github.com/hamza-0987/local_lambda_test">local_lambda_test</a> •
+    <a href="https://github.com/hamza-0987/gemini-flask">gemini-flask</a> •
+    <a href="https://github.com/hamza-0987/crud_django">crud_django</a> •
+    <a href="https://github.com/hamza-0987/firecrawle-semantic-search">firecrawl-semantic-search</a> •
+    <a href="https://github.com/hamza-0987/prompt-pack-for-3d-web-pages">3d-prompt-pack</a> •
+    <a href="https://github.com/hamza-0987/diabetes-prediction-model">diabetes-model</a> •
+    <a href="https://github.com/hamza-0987/pychat">pychat</a>
   </p>
 </details>
 
 <br>
 
 <!-- =========================================================== -->
-<!--  FOOTER / CONNECT                                           -->
+<!--  CONNECT (real platforms only: GitHub, LinkedIn)            -->
 <!-- =========================================================== -->
 <h2 align="center">🤝 &nbsp;Let&apos;s Connect</h2>
 
-<div align="center">
-  <a href="https://github.com/hamza-0987"><img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="52" title="GitHub"/></a>
-  <a href="mailto:hamza0987@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="52" title="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/hamza-0987"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="52" title="LinkedIn"/></a>
-</div>
+<svg viewBox="0 0 900 320" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Connect links">
+  <rect width="900" height="320" rx="24" fill="#0d1117" stroke="#21262d"/>
+  <text x="450" y="52" text-anchor="middle" font-size="22" font-weight="700" fill="#e6edf3">Where to find me</text>
+
+  <!-- GitHub -->
+  <g>
+    <a href="https://github.com/hamza-0987" target="_blank">
+      <rect x="150" y="90" width="600" height="80" rx="16" fill="#161b22" stroke="#21262d"/>
+      <image href="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" x="172" y="102" width="56" height="56" preserveAspectRatio="xMidYMid slice"/>
+      <text x="250" y="130" font-size="19" font-weight="700" fill="#ffffff">GitHub</text>
+      <text x="250" y="152" font-size="14" fill="#8b9fb4">github.com/hamza-0987 — code, experiments &amp; OSS</text>
+      <text x="726" y="132" text-anchor="end" font-size="22" fill="#22d3ee">→</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,16;0,0" dur="0.6s" fill="freeze"/>
+  </g>
+
+  <!-- LinkedIn -->
+  <g>
+    <a href="https://www.linkedin.com/in/hamza-075864228" target="_blank">
+      <rect x="150" y="185" width="600" height="80" rx="16" fill="#161b22" stroke="#21262d"/>
+      <image href="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" x="172" y="197" width="56" height="56" preserveAspectRatio="xMidYMid slice"/>
+      <text x="250" y="225" font-size="19" font-weight="700" fill="#ffffff">LinkedIn</text>
+      <text x="250" y="247" font-size="14" fill="#8b9fb4">linkedin.com/in/hamza-075864228 — let&apos;s network</text>
+      <text x="726" y="227" text-anchor="end" font-size="22" fill="#7c3aed">→</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,16;0,0" dur="0.6s" begin="0.2s" fill="freeze"/>
+  </g>
+
+  <!-- note -->
+  <text x="450" y="292" text-anchor="middle" font-size="14" fill="#5c7291">💬 Open to collaborations in AI/ML, RAG &amp; geospatial projects — I reply fast.</text>
+</svg>
 
 <br>
 
