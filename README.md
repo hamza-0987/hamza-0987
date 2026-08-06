@@ -57,6 +57,39 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=hamza-0987&theme=aurora&style=terminal&mode=light" />
+  </picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=hamza-0987&theme=aurora&style=terminal&label=HAMZA&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=hamza-0987&theme=aurora&style=terminal&label=HAMZA&mode=dark" width="100%" alt="hamza-0987 wordmark" />
+</picture></td>
+</tr>
+</table>
+
+<p><b>
+
+Python Developer &amp; AI Engineer with expertise in building scalable applications and AI-driven solutions. Skilled in Machine Learning, Deep Learning,</b></p>
+
+<p><a href="https://github.com/hamza-0987">GitHub</a></p>
+
+</div>
+
+<div align="center">
+
+<h3><code>hamza-0987@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=hamza-0987&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=hamza-0987&theme=aurora&style=terminal&mode=dark" width="100%" alt="hamza-0987 heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>HAMZA · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
 <h2 align="center">⚡ GitHub in Numbers</h2>
 
 <p align="center">
