@@ -9,55 +9,17 @@
 </p>
 
 ## Profile
-Grounded in live GitHub data — no external card service.
-
 <p align="center">
-<svg viewBox="0 0 820 300" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub profile card" font-family="'Segoe UI', -apple-system, sans-serif">
-  <defs>
-    <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#161b22"/><stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff"/><stop offset="100%" stop-color="#bc8cff"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="820" height="300" rx="20" fill="url(#pg)" stroke="#30363d"/>
-
-  <circle cx="74" cy="78" r="52" fill="#0d1117" stroke="#58a6ff" stroke-width="3">
-    <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <text x="74" y="92" text-anchor="middle" font-size="46" fill="#e6edf3">🦁</text>
-
-  <text x="156" y="58" font-size="26" font-weight="700" fill="#e6edf3">HAMZA</text>
-  <text x="156" y="80" font-size="13" fill="#58a6ff">Python Developer &amp; AI Engineer</text>
-  <text x="156" y="102" font-size="13" fill="#8b949e">Building scalable AI, MLOps, and cloud systems.</text>
-  <text x="156" y="124" font-size="13" fill="#8b949e">📍 Pakistan, Karachi, Sindh</text>
-
-  <line x1="28" y1="146" x2="792" y2="146" stroke="#21262d"/>
-
-  <g font-size="26" font-weight="700" fill="#e6edf3">
-    <text x="166" y="192" text-anchor="middle">56</text>
-    <text x="410" y="192" text-anchor="middle">35</text>
-    <text x="654" y="192" text-anchor="middle">7</text>
-  </g>
-  <g font-size="12" fill="#8b949e">
-    <text x="166" y="214" text-anchor="middle">Repositories</text>
-    <text x="410" y="214" text-anchor="middle">Contributions</text>
-    <text x="654" y="214" text-anchor="middle">Followers</text>
-  </g>
-
-  <line x1="28" y1="236" x2="792" y2="236" stroke="#21262d"/>
-
-  <text x="28" y="266" font-size="13" font-weight="700" fill="#e6edf3">Top languages</text>
-  <rect x="28" y="276" width="760" height="8" rx="4" fill="#21262d"/>
-  <rect x="28" y="276" width="416" height="8" rx="4" fill="#e34c26"/>
-  <rect x="444" y="276" width="156" height="8" rx="4" fill="#da5b0b"/>
-  <rect x="600" y="276" width="123" height="8" rx="4" fill="#3572A5"/>
-  <rect x="723" y="276" width="27" height="8" rx="4" fill="#f9d71c"/>
-  <text x="28" y="294" font-size="10.5" fill="#8b949e">HTML</text>
-  <text x="180" y="294" font-size="10.5" fill="#8b949e">Python</text>
-  <text x="285" y="294" font-size="10.5" fill="#8b949e">TypeScript · JavaScript · CSS</text>
-</svg>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github&mode=light" />
+    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github" alt="GitSkins Animated Profile" width="820" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github&mode=light" />
+    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
+  </picture>
 </p>
 
 ## About Me
@@ -170,65 +132,21 @@ I build **end-to-end** AI systems — from research to production.
 </p>
 
 ## GitHub Stats
-Self-contained, watermark-free — data pulled from your live profile.
-
 <p align="center">
-<svg viewBox="0 0 600 200" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats card">
-  <rect x="0" y="0" width="600" height="200" rx="16" fill="#161b22" stroke="#30363d"/>
-  <text x="28" y="40" font-size="15" font-weight="700" fill="#e6edf3" font-family="'Segoe UI',sans-serif">GitHub Stats</text>
-  <g font-family="'Segoe UI',sans-serif">
-    <text x="28" y="92" font-size="40" font-weight="700" fill="#58a6ff">56</text>
-    <text x="28" y="132" font-size="12" fill="#8b949e">Public Repositories</text>
-    <text x="218" y="92" font-size="40" font-weight="700" fill="#3fb950">35</text>
-    <text x="218" y="132" font-size="12" fill="#8b949e">Contributions</text>
-    <text x="420" y="92" font-size="40" font-weight="700" fill="#bc8cff">7</text>
-    <text x="420" y="132" font-size="12" fill="#8b949e">Followers</text>
-  </g>
-  <line x1="28" y1="150" x2="572" y2="150" stroke="#21262d"/>
-  <text x="28" y="178" font-size="12" fill="#8b949e" font-family="'Segoe UI',sans-serif">Member since Dec 2019 · Pakistan, Karachi, Sindh</text>
-</svg>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=stats&avatar=github&mode=light" />
+    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=stats&avatar=github" alt="GitSkins Stats Card" width="600" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=languages&avatar=github&mode=light" />
+    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=languages&avatar=github" alt="GitSkins Languages" width="450" />
+  </picture>
 </p>
-
 <p align="center">
-<svg viewBox="0 0 450 280" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top languages">
-  <rect x="0" y="0" width="450" height="280" rx="16" fill="#161b22" stroke="#30363d"/>
-  <text x="24" y="36" font-size="15" font-weight="700" fill="#e6edf3" font-family="'Segoe UI',sans-serif">Languages</text>
-
-  <rect x="0" y="0" width="0" height="0"/>
-
-  <text x="24" y="70" font-size="12" fill="#e6edf3" font-family="'Segoe UI',sans-serif">Python</text>
-  <rect x="24" y="80" width="0" height="10" rx="5" fill="#3572A5"><animate attributeName="width" from="0" to="330" dur="1s" begin="0.1s" fill="freeze"/></rect>
-  <text x="350" y="88" font-size="11" fill="#8b949e" text-anchor="end" font-family="'Segoe UI',sans-serif">16.2%</text>
-
-  <text x="24" y="112" font-size="12" fill="#e6edf3" font-family="'Segoe UI',sans-serif">HTML</text>
-  <rect x="24" y="122" width="0" height="10" rx="5" fill="#e34c26"><animate attributeName="width" from="0" to="330" dur="1s" begin="0.25s" fill="freeze"/></rect>
-  <text x="350" y="130" font-size="11" fill="#8b949e" text-anchor="end" font-family="'Segoe UI',sans-serif">54.8%</text>
-
-  <text x="24" y="154" font-size="12" fill="#e6edf3" font-family="'Segoe UI',sans-serif">Jupyter Notebook</text>
-  <rect x="24" y="164" width="0" height="10" rx="5" fill="#DA5B0B"><animate attributeName="width" from="0" to="220" dur="1s" begin="0.4s" fill="freeze"/></rect>
-  <text x="350" y="172" font-size="11" fill="#8b949e" text-anchor="end" font-family="'Segoe UI',sans-serif">20.5%</text>
-
-  <text x="24" y="196" font-size="12" fill="#e6edf3" font-family="'Segoe UI',sans-serif">JavaScript</text>
-  <rect x="24" y="206" width="0" height="10" rx="5" fill="#f1e05a"><animate attributeName="width" from="0" to="120" dur="1s" begin="0.55s" fill="freeze"/></rect>
-  <text x="350" y="214" font-size="11" fill="#8b949e" text-anchor="end" font-family="'Segoe UI',sans-serif">3.6%</text>
-
-  <text x="24" y="238" font-size="12" fill="#e6edf3" font-family="'Segoe UI',sans-serif">CSS</text>
-  <rect x="24" y="248" width="0" height="10" rx="5" fill="#563d7c"><animate attributeName="width" from="0" to="100" dur="1s" begin="0.7s" fill="freeze"/></rect>
-  <text x="350" y="256" font-size="11" fill="#8b949e" text-anchor="end" font-family="'Segoe UI',sans-serif">3.2%</text>
-</svg>
-</p>
-
-<p align="center">
-<svg viewBox="0 0 600 200" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub streak">
-  <rect x="0" y="0" width="600" height="200" rx="16" fill="#161b22" stroke="#30363d"/>
-  <text x="180" y="60" font-size="15" font-weight="700" fill="#e6edf3" font-family="'Segoe UI',sans-serif">🌱 Current building streak</text>
-  <text x="180" y="110" font-size="42" font-weight="700" fill="#3fb950" font-family="'Segoe UI',sans-serif">35</text>
-  <text x="180" y="140" font-size="13" fill="#8b949e" font-family="'Segoe UI',sans-serif">contributions this year</text>
-  <text x="180" y="172" font-size="12" fill="#8b949e" font-family="'Segoe UI',sans-serif">Active across AI · MLOps · Cloud · Vision repos</text>
-  <circle cx="90" cy="80" r="34" fill="none" stroke="#3fb950" stroke-width="4" stroke-linecap="round" stroke-dasharray="214" stroke-dashoffset="0">
-    <animate attributeName="stroke-dashoffset" from="214" to="0" dur="1.5s" begin="0.3s" fill="freeze"/>
-  </circle>
-</svg>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=streak&avatar=github&mode=light" />
+    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=streak&avatar=github" alt="GitSkins Streak" width="600" />
+  </picture>
 </p>
 
 ## Featured Projects
