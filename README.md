@@ -511,153 +511,209 @@
 <!-- =========================================================== -->
 <h2 align="center">🗂️ &nbsp;Featured Projects</h2>
 
-<svg viewBox="0 0 900 550" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured projects grid">
+<pre align="center">
+ ●───────●───────●───────●───────●
+ │                          │
+ │                          ●───────●───────●
+ │                                  │
+ │                                  ●───────●
+ │
+ ●───────●───────●
+</pre>
+
+<svg viewBox="0 0 900 540" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured projects terminal">
   <defs>
-    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="fp" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
   </defs>
 
-  <!-- ============ row 1 ============ -->
+  <!-- frame -->
+  <rect x="0" y="0" width="900" height="540" rx="20" fill="#0d1117" stroke="#21262d"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="900" height="42" rx="20" fill="#161b22"/>
+  <rect x="0" y="20" width="900" height="22" fill="#161b22"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="21" r="6" fill="#28c840"/>
+  <text x="450" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#7689a6">hamza@hamza-0987: ~/featured</text>
+
+  <!-- command line -->
+  <text x="28" y="72" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#8b9fb4">$</text>
+  <text x="46" y="72" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#c9d1d9">ls -la --top 9</text>
+  <rect x="212" y="58" width="9" height="16" fill="#22d3ee">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scan sweep on load -->
+  <rect x="0" y="42" width="900" height="2" fill="url(#fp)" opacity="0">
+    <animate attributeName="y" values="42;538" dur="2.2s" begin="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.45;0" dur="2.2s" begin="0.3s" fill="freeze"/>
+  </rect>
+
+  <!-- column headers -->
+  <circle cx="42" cy="96" r="4" fill="#28c840">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="100" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#4b5a72" letter-spacing="1.5">PROJECT</text>
+  <text x="788" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#4b5a72" letter-spacing="1.5">STARS</text>
+
+  <!-- ============ project rows ============ -->
+
+  <!-- row 0 -->
   <g>
+    <rect x="24" y="114" width="852" height="36" rx="9" fill="#0f1420"/>
     <a href="https://github.com/hamza-0987/multi-agent-system" target="_blank">
-      <rect x="30" y="20" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="46" y="54" font-size="16" font-weight="700" fill="#a5f3fc">multi-agent-system</text>
-      <circle cx="46" cy="80" r="4" fill="#3572A5"/>
-      <text x="57" y="84" font-size="11" fill="#8b9fb4">Python</text>
-      <text x="46" y="106" font-size="12" fill="#c9d1d9">AutoGen Studio, Groq LLM + MCP</text>
-      <text x="46" y="124" font-size="12" fill="#8b9fb4">agent integrations</text>
-      <line x1="46" y1="142" x2="284" y2="142" stroke="#21262d"/>
-      <text x="46" y="162" font-size="12" fill="#fde68a">★ 1</text>
-      <text x="284" y="162" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="123" width="18" height="18" rx="5" fill="#3572A5">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="136" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">multi-agent-system</text>
+      <text x="70" y="148" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">AutoGen Studio, Groq LLM and MCP integration</text>
+      <text x="788" y="136" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#fde68a">★ 1</text>
+      <text x="868" y="136" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.15s" fill="freeze"/>
   </g>
+
+  <!-- row 1 -->
   <g>
+    <rect x="24" y="156" width="852" height="36" rx="9" fill="#121a29"/>
     <a href="https://github.com/hamza-0987/text2sql" target="_blank">
-      <rect x="315" y="20" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="331" y="54" font-size="16" font-weight="700" fill="#a5f3fc">text2sql</text>
-      <circle cx="331" cy="80" r="4" fill="#3572A5"/>
-      <text x="342" y="84" font-size="11" fill="#8b9fb4">Python</text>
-      <text x="331" y="106" font-size="12" fill="#c9d1d9">Natural language questions</text>
-      <text x="331" y="124" font-size="12" fill="#8b9fb4">→ SQL queries</text>
-      <line x1="331" y1="142" x2="569" y2="142" stroke="#21262d"/>
-      <text x="331" y="162" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="569" y="162" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="165" width="18" height="18" rx="5" fill="#3572A5">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.9s" begin="0.2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="178" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">text2sql</text>
+      <text x="70" y="190" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Natural language questions to SQL queries</text>
+      <text x="788" y="178" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="178" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.24s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.24s" fill="freeze"/>
   </g>
+
+  <!-- row 2 -->
   <g>
+    <rect x="24" y="198" width="852" height="36" rx="9" fill="#0f1420"/>
     <a href="https://github.com/hamza-0987/easy-rag" target="_blank">
-      <rect x="600" y="20" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="616" y="54" font-size="16" font-weight="700" fill="#a5f3fc">easy-rag</text>
-      <circle cx="616" cy="80" r="4" fill="#3572A5"/>
-      <text x="627" y="84" font-size="11" fill="#8b9fb4">Python</text>
-      <text x="616" y="106" font-size="12" fill="#c9d1d9">Lightweight, flexible RAG</text>
-      <text x="616" y="124" font-size="12" fill="#8b9fb4">framework</text>
-      <line x1="616" y1="142" x2="854" y2="142" stroke="#21262d"/>
-      <text x="616" y="162" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="854" y="162" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="207" width="18" height="18" rx="5" fill="#3572A5">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="220" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">easy-rag</text>
+      <text x="70" y="232" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Lightweight and flexible RAG framework</text>
+      <text x="788" y="220" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="220" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.33s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.33s" fill="freeze"/>
   </g>
 
-  <!-- ============ row 2 ============ -->
+  <!-- row 3 -->
   <g>
+    <rect x="24" y="240" width="852" height="36" rx="9" fill="#121a29"/>
     <a href="https://github.com/hamza-0987/neo4j-rag-example" target="_blank">
-      <rect x="30" y="190" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="46" y="224" font-size="16" font-weight="700" fill="#a5f3fc">neo4j-rag-example</text>
-      <circle cx="46" cy="250" r="4" fill="#DA5B0B"/>
-      <text x="57" y="254" font-size="11" fill="#8b9fb4">Jupyter</text>
-      <text x="46" y="276" font-size="12" fill="#c9d1d9">Graph-powered retrieval</text>
-      <text x="46" y="294" font-size="12" fill="#8b9fb4">with Neo4j</text>
-      <line x1="46" y1="312" x2="284" y2="312" stroke="#21262d"/>
-      <text x="46" y="332" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="284" y="332" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="249" width="18" height="18" rx="5" fill="#DA5B0B">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.7s" begin="0.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="262" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">neo4j-rag-example</text>
+      <text x="70" y="274" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Graph-powered retrieval with Neo4j</text>
+      <text x="788" y="262" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="262" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.3s" fill="freeze"/>
-  </g>
-  <g>
-    <a href="https://github.com/hamza-0987/unified-arhitecture-thesis-app" target="_blank">
-      <rect x="315" y="190" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="331" y="224" font-size="16" font-weight="700" fill="#a5f3fc">thesis-app</text>
-      <circle cx="331" cy="250" r="4" fill="#3178c6"/>
-      <text x="342" y="254" font-size="11" fill="#8b9fb4">TypeScript</text>
-      <text x="331" y="276" font-size="12" fill="#c9d1d9">Full-stack unified architecture</text>
-      <text x="331" y="294" font-size="12" fill="#8b9fb4">thesis application</text>
-      <line x1="331" y1="312" x2="569" y2="312" stroke="#21262d"/>
-      <text x="331" y="332" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="569" y="332" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
-    </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.4s" fill="freeze"/>
-  </g>
-  <g>
-    <a href="https://github.com/hamza-0987/github2diagram" target="_blank">
-      <rect x="600" y="190" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="616" y="224" font-size="16" font-weight="700" fill="#a5f3fc">github2diagram</text>
-      <circle cx="616" cy="250" r="4" fill="#e34c26"/>
-      <text x="627" y="254" font-size="11" fill="#8b9fb4">HTML</text>
-      <text x="616" y="276" font-size="12" fill="#c9d1d9">Turn GitHub data into</text>
-      <text x="616" y="294" font-size="12" fill="#8b9fb4">diagrams</text>
-      <line x1="616" y1="312" x2="854" y2="312" stroke="#21262d"/>
-      <text x="616" y="332" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="854" y="332" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
-    </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.5s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.42s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.42s" fill="freeze"/>
   </g>
 
-  <!-- ============ row 3 ============ -->
+  <!-- row 4 -->
   <g>
+    <rect x="24" y="282" width="852" height="36" rx="9" fill="#0f1420"/>
+    <a href="https://github.com/hamza-0987/unified-arhitecture-thesis-app" target="_blank">
+      <rect x="42" y="291" width="18" height="18" rx="5" fill="#3178c6">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="304" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">unified-architecture-thesis-app</text>
+      <text x="70" y="316" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Full-stack unified architecture thesis app</text>
+      <text x="788" y="304" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="304" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.51s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.51s" fill="freeze"/>
+  </g>
+
+  <!-- row 5 -->
+  <g>
+    <rect x="24" y="324" width="852" height="36" rx="9" fill="#121a29"/>
+    <a href="https://github.com/hamza-0987/github2diagram" target="_blank">
+      <rect x="42" y="333" width="18" height="18" rx="5" fill="#e34c26">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.9s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="346" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">github2diagram</text>
+      <text x="70" y="358" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Turn GitHub data into diagrams</text>
+      <text x="788" y="346" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="346" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
+    </a>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.6s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.6s" fill="freeze"/>
+  </g>
+
+  <!-- row 6 -->
+  <g>
+    <rect x="24" y="366" width="852" height="36" rx="9" fill="#0f1420"/>
     <a href="https://github.com/hamza-0987/shaheenviz" target="_blank">
-      <rect x="30" y="360" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="46" y="394" font-size="16" font-weight="700" fill="#a5f3fc">shaheenviz</text>
-      <circle cx="46" cy="420" r="4" fill="#3572A5"/>
-      <text x="57" y="424" font-size="11" fill="#8b9fb4">Python</text>
-      <text x="46" y="446" font-size="12" fill="#c9d1d9">Geospatial data</text>
-      <text x="46" y="464" font-size="12" fill="#8b9fb4">visualization</text>
-      <line x1="46" y1="482" x2="284" y2="482" stroke="#21262d"/>
-      <text x="46" y="502" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="284" y="502" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="375" width="18" height="18" rx="5" fill="#3572A5">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="388" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">shaheenviz</text>
+      <text x="70" y="400" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Geospatial data visualization</text>
+      <text x="788" y="388" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="388" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.6s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.69s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.69s" fill="freeze"/>
   </g>
+
+  <!-- row 7 -->
   <g>
+    <rect x="24" y="408" width="852" height="36" rx="9" fill="#121a29"/>
     <a href="https://github.com/hamza-0987/stocksage" target="_blank">
-      <rect x="315" y="360" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="331" y="394" font-size="16" font-weight="700" fill="#a5f3fc">stocksage</text>
-      <circle cx="331" cy="420" r="4" fill="#3572A5"/>
-      <text x="342" y="424" font-size="11" fill="#8b9fb4">Python</text>
-      <text x="331" y="446" font-size="12" fill="#c9d1d9">Stock market insights</text>
-      <text x="331" y="464" font-size="12" fill="#8b9fb4">&amp; analysis</text>
-      <line x1="331" y1="482" x2="569" y2="482" stroke="#21262d"/>
-      <text x="331" y="502" font-size="12" fill="#fde68a">★ 0</text>
-      <text x="569" y="502" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="417" width="18" height="18" rx="5" fill="#3572A5">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3.1s" begin="1.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="430" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">stocksage</text>
+      <text x="70" y="442" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Stock market insights and analysis</text>
+      <text x="788" y="430" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#4b5a72">★ 0</text>
+      <text x="868" y="430" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.7s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.7s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.78s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.78s" fill="freeze"/>
   </g>
+
+  <!-- row 8 -->
   <g>
+    <rect x="24" y="450" width="852" height="36" rx="9" fill="#0f1420"/>
     <a href="https://github.com/hamza-0987/Rolex-watch" target="_blank">
-      <rect x="600" y="360" width="270" height="150" rx="16" fill="#161b22" stroke="#21262d"/>
-      <text x="616" y="394" font-size="16" font-weight="700" fill="#a5f3fc">Rolex-watch</text>
-      <circle cx="616" cy="420" r="4" fill="#663399"/>
-      <text x="627" y="424" font-size="11" fill="#8b9fb4">CSS</text>
-      <text x="616" y="446" font-size="12" fill="#c9d1d9">Luxury watch crafted</text>
-      <text x="616" y="464" font-size="12" fill="#8b9fb4">in pure CSS</text>
-      <line x1="616" y1="482" x2="854" y2="482" stroke="#21262d"/>
-      <text x="616" y="502" font-size="12" fill="#fde68a">★ 1</text>
-      <text x="854" y="502" text-anchor="end" font-size="12" fill="#8b9fb4">🍴 0</text>
+      <rect x="42" y="459" width="18" height="18" rx="5" fill="#663399">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="2.7s" begin="1.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="70" y="472" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">Rolex-watch</text>
+      <text x="70" y="484" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#7689a6">Luxury watch crafted in pure CSS</text>
+      <text x="788" y="472" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#fde68a">★ 1</text>
+      <text x="868" y="472" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">→</text>
     </a>
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,14;0,0" dur="0.6s" begin="0.8s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.87s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.45s" begin="0.87s" fill="freeze"/>
   </g>
+
+  <!-- footer -->
+  <rect x="24" y="498" width="852" height="1.5" fill="#1c2333"/>
+  <rect x="24" y="498" width="0" height="1.5" fill="url(#fp)">
+    <animate attributeName="width" from="0" to="852" dur="1.2s" begin="1s" fill="freeze"/>
+  </rect>
+  <text x="28" y="521" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#22d3ee">
+    <tspan fill="#8b9fb4">❯</tspan> <a href="https://github.com/hamza-0987?tab=repositories" target="_blank">browse all 56 repositories</a>
+    <animate attributeName="opacity" values="1;1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
 </svg>
 
 <details align="center">
