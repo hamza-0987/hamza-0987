@@ -8,6 +8,17 @@
   <img src="https://www.gitskins.com/api/section/hero?username=hamza-0987&theme=github-dark" alt="hamza-0987 hero section" />
 </p>
 
+## Profile
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github" alt="GitSkins Animated Profile" width="820" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=persona&avatar=github" alt="GitSkins Persona Profile" width="820" />
+</p>
+
 ## About Me
 <p align="center">
   <img src="https://www.gitskins.com/api/section/about?username=hamza-0987&theme=github-dark" alt="hamza-0987 about section" />
@@ -118,15 +129,6 @@ I build **end-to-end** AI systems — from research to production.
 </p>
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github" alt="GitSkins Animated Profile" width="820" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
-</p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=persona&avatar=github" alt="GitSkins Persona Profile" width="820" />
-</p>
 <p align="center">
   <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=stats&avatar=github" alt="GitSkins Stats Card" width="600" />
   <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=languages&avatar=github" alt="GitSkins Languages" width="450" />
