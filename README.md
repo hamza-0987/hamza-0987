@@ -409,48 +409,86 @@
 <!-- =========================================================== -->
 <h2 align="center">🧠 &nbsp;Expertise</h2>
 
-<svg viewBox="0 0 900 250" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Expertise grid">
+<svg viewBox="0 0 900 360" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Expertise grid">
   <!-- row 1 -->
   <g>
-    <a href="https://github.com/hamza-0987/multi-agent-system">
-      <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
-      <text x="120" y="110" text-anchor="middle" font-size="22">🤖</text>
-      <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">AI Agents &amp; MCP</text>
-    </a>
+    <rect x="20" y="20" width="200" height="160" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="120" y="58" text-anchor="middle" font-size="22">☁️</text>
+    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Cloud &amp; DevOps</text>
+    <line x1="32" y1="96" x2="208" y2="96" stroke="#21262d"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#8b9fb4">AWS EC2 · Lambda · S3 · IAM</text>
+    <text x="120" y="136" text-anchor="middle" font-size="11" fill="#8b9fb4">SQS · SNS · Athena · Serverless</text>
+    <text x="120" y="154" text-anchor="middle" font-size="11" fill="#8b9fb4">Terraform · CloudFormation</text>
+    <text x="120" y="172" text-anchor="middle" font-size="11" fill="#8b9fb4">Step Functions · Azure · GCP</text>
     <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(280,0)">
-    <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
-    <text x="120" y="110" text-anchor="middle" font-size="22">🧬</text>
-    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">RAG &amp; NLP</text>
+    <rect x="20" y="20" width="200" height="160" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="120" y="58" text-anchor="middle" font-size="22">📡</text>
+    <text x="120" y="82" text-anchor="middle" font-size="14" font-weight="600" fill="#e6edf3">Observability &amp; Monitoring</text>
+    <line x1="32" y1="96" x2="208" y2="96" stroke="#21262d"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#8b9fb4">End-to-end Observability layer</text>
+    <text x="120" y="136" text-anchor="middle" font-size="11" fill="#8b9fb4">Traceability layer</text>
+    <text x="120" y="154" text-anchor="middle" font-size="11" fill="#8b9fb4">Cost &amp; Health Monitoring app</text>
+    <text x="120" y="172" text-anchor="middle" font-size="11" fill="#8b9fb4">Operations Management Portal</text>
     <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.4s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(560,0)">
-    <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
-    <text x="120" y="110" text-anchor="middle" font-size="22">📊</text>
-    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Data Science</text>
+    <rect x="20" y="20" width="200" height="160" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="120" y="58" text-anchor="middle" font-size="22">🧠</text>
+    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Computer Vision &amp; DL</text>
+    <line x1="32" y1="96" x2="208" y2="96" stroke="#21262d"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#8b9fb4">SAM · Mobile SAM</text>
+    <text x="120" y="136" text-anchor="middle" font-size="11" fill="#8b9fb4">Grounding DINO · OpenCV · CNN</text>
+    <text x="120" y="154" text-anchor="middle" font-size="11" fill="#8b9fb4">GAN · Super-Resolution</text>
+    <text x="120" y="172" text-anchor="middle" font-size="11" fill="#8b9fb4">Automated Labelling Tool</text>
     <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.8s" repeatCount="indefinite"/>
   </g>
   <!-- row 2 -->
-  <g transform="translate(0,120)">
-    <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
-    <text x="120" y="110" text-anchor="middle" font-size="22">🌍</text>
-    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Geospatial / GIS</text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0;-5;0,0" dur="2.9s" repeatCount="indefinite"/>
+  <g transform="translate(0,200)">
+    <rect x="20" y="20" width="200" height="140" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="120" y="58" text-anchor="middle" font-size="22">🗄️</text>
+    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Backend &amp; Databases</text>
+    <line x1="32" y1="96" x2="208" y2="96" stroke="#21262d"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#8b9fb4">PostgreSQL · MySQL</text>
+    <text x="120" y="136" text-anchor="middle" font-size="11" fill="#8b9fb4">Hasura · GraphQL</text>
+    <text x="120" y="154" text-anchor="middle" font-size="11" fill="#8b9fb4">Athena · Data querying</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="2.9s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(280,120)">
-    <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
-    <text x="120" y="110" text-anchor="middle" font-size="22">⚙️</text>
-    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Backend &amp; APIs</text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0;-5;0,0" dur="3.2s" repeatCount="indefinite"/>
+  <g transform="translate(280,200)">
+    <rect x="20" y="20" width="200" height="140" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="120" y="58" text-anchor="middle" font-size="22">🎨</text>
+    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Full-Stack &amp; Frontend</text>
+    <line x1="32" y1="96" x2="208" y2="96" stroke="#21262d"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#8b9fb4">React · Next.js</text>
+    <text x="120" y="136" text-anchor="middle" font-size="11" fill="#8b9fb4">Shadcn · Magic UI · Hero UI</text>
+    <text x="120" y="154" text-anchor="middle" font-size="11" fill="#8b9fb4">React Native · Expo</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.2s" repeatCount="indefinite"/>
   </g>
-  <g transform="translate(560,120)">
-    <rect x="20" y="20" width="200" height="90" rx="18" fill="#161b22" stroke="#21262d"/>
-    <text x="120" y="110" text-anchor="middle" font-size="22">💻</text>
-    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">UI / Full-Stack</text>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0;-5;0,0" dur="3.6s" repeatCount="indefinite"/>
+  <g transform="translate(560,200)">
+    <rect x="20" y="20" width="200" height="140" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="120" y="58" text-anchor="middle" font-size="22">🌍</text>
+    <text x="120" y="82" text-anchor="middle" font-size="15" font-weight="600" fill="#e6edf3">Geospatial &amp; Agri-AI</text>
+    <line x1="32" y1="96" x2="208" y2="96" stroke="#21262d"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#8b9fb4">GPS Acres</text>
+    <text x="120" y="136" text-anchor="middle" font-size="11" fill="#8b9fb4">Anomaly Detection pipeline</text>
+    <text x="120" y="154" text-anchor="middle" font-size="11" fill="#8b9fb4">Plant Count classifier</text>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.6s" repeatCount="indefinite"/>
   </g>
 </svg>
+
+<br>
+
+<h3 align="center">🛰️ &nbsp;Notable Builds</h3>
+<p align="center">
+  📈 End-to-End Observability &amp; Traceability layer<br/>
+  💸 Cloud Cost &amp; Health Monitoring &amp; Tracking application<br/>
+  🧭 Complete Operations Management &amp; Monitoring Portal<br/>
+  📍 GPS Acres<br/>
+  🏷️ Automated Labelling Tool with cloud connectivity<br/>
+  🚨 Anomaly Detection end-to-end pipeline<br/>
+  🌾 Plant Count Report Classifier
+</p>
 
 <br>
 
