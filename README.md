@@ -37,6 +37,8 @@ current: "Building production AI agents, RAG-as-a-Service & end-to-end ML system
 achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cloud Certs"]
 ```
 
+
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
