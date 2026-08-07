@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/nPtbn0G.gif" alt="animated tech divider" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D9FF,50:7B2FF7,100:FF0080&height=80&section=header&text=~%20Systems%20That%20Ship%20~&fontSize=28&fontColor=00D9FF&fontAlignY=50" width="100%" />
 </p>
 
 ## 🧭 About Me
