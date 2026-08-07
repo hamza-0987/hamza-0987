@@ -42,11 +42,11 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 ```
 
 <p align="center">
-  <img src="./bio-terminal.svg" alt="Bio Terminal Card" width="90%" />
+  <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/bio-terminal.svg" alt="Bio Terminal Card" width="90%" />
 </p>
 
 <p align="center">
-  <img src="./working-on.svg" alt="Currently Working On" width="90%" />
+  <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/working-on.svg" alt="Currently Working On" width="90%" />
 </p>
 
 </p>
