@@ -46,12 +46,12 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-0987&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-0987&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-0987&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-0987&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FF7&point=FF0080" width="48%" />
 </p>
 
