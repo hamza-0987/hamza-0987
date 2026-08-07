@@ -317,6 +317,14 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-0987&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FF7&point=FF0080&width=900" width="100%" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-0987/hamza-0987/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-0987/hamza-0987/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 📬 Let's Connect
