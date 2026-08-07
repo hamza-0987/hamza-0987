@@ -46,7 +46,7 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/working-on.svg" alt="Currently Working On" width="90%" />
+  <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/working-on.svg?v=3" alt="Currently Working On" width="90%" />
 </p>
 
 </p>
