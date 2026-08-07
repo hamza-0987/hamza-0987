@@ -49,6 +49,16 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
   <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/working-current.svg" alt="Currently Working On" width="90%" />
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/hamza-0987?achievement=arctic-code-vault-contributor">
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" alt="Arctic Code Vault Contributor" width="120" />
+  </a>
+</p>
+
+> **Arctic Code Vault Contributor** — Your code was archived in the 2020 Arctic Code Vault during the GitHub Archive Program.
+
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
