@@ -344,6 +344,16 @@ flowchart LR
   </picture>
 </p>
 
+<h3 align="center">🌃 Contribution Skyline</h3>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+<h3 align="center">📊 Live Developer Metrics</h3>
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
