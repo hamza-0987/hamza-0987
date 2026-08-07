@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Hamza
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=%E2%9E%9C+~+hamza+%E2%9C%97+whoami;AI+%26+MLOps+Engineer;%E2%9E%9C+~+hamza+%E2%9C%97+aws+%2B+terraform+--status;Active+%26+Orchestrated;%E2%9E%9C+~+hamza+%E2%9C%97+deploy+%2Fragservice;Deployment+Successful+%E2%9C%93" alt="Terminal Typing" />
+</p>
 
 <p align="center">
   <a href="https://github.com/hamza-0987?tab=followers">
@@ -19,7 +21,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🧭 About Me
 
@@ -33,7 +37,9 @@ current: "Building production AI agents, RAG-as-a-Service & end-to-end ML system
 achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cloud Certs"]
 ```
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -60,7 +66,9 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 
 </details>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -122,8 +130,9 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 | **AgriCV** | canola_pipeline, gps_acre_latest, plant count classifier |
 
 </details>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🧠 Skill Matrix
 
@@ -183,7 +192,9 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 | Bash / Shell | Intermediate | Automation & infra scripting |
 | Java / C / C# / Kotlin | Intermediate → Basic | Academic & systems work |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -219,7 +230,9 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 🏆 Achievements & Certifications
 <table>
@@ -242,7 +255,9 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 🎓 Education & Leadership
 <table>
@@ -309,7 +324,9 @@ flowchart LR
 
 </details>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 📈 Contribution Graph
 
@@ -325,7 +342,9 @@ flowchart LR
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 📬 Let's Connect
 
@@ -344,7 +363,9 @@ flowchart LR
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 📜 Professional Certifications
 <p align="center">
@@ -352,6 +373,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/DeepLearning.AI-00D9FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Great_Learning-00857C?style=for-the-badge&logoColor=white" />
 </p>
+
 
 
 Credentials spanning Machine Learning, Generative AI, and Cloud Infrastructure.
@@ -364,17 +386,12 @@ Credentials spanning Machine Learning, Generative AI, and Cloud Infrastructure.
   <i>⭐️ From <a href="https://github.com/hamza-0987">hamza-0987</a> — building AI systems that ship. ⭐️</i>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20Coffee-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Last%20Updated-2025-00D9FF?style=flat-square" />
 </p>
 
 
-<p align="center">
-<img src="https://img.shields.io/badge/Made%20with-Python%20%26%20Coffee-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Last%20Updated-2025-00D9FF?style=flat-square" />
-</p>
-
-<div align="center">
 
 
