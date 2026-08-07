@@ -25,6 +25,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/nPtbn0G.gif" alt="animated tech divider" width="60%" />
+</p>
+
 ## 🧭 About Me
 
 ```yaml
@@ -201,6 +205,10 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,aws,terraform,react,nextjs,typescript,postgres,graphql&perline=12" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -347,11 +355,6 @@ flowchart LR
 <h3 align="center">🌃 Contribution Skyline</h3>
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
-<h3 align="center">📊 Live Developer Metrics</h3>
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
