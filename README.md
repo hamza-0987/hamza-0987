@@ -41,6 +41,13 @@ current: "Building production AI agents, RAG-as-a-Service & end-to-end ML system
 achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cloud Certs"]
 ```
 
+<p align="center">
+  <img src="./bio-terminal.svg" alt="Bio Terminal Card" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./working-on.svg" alt="Currently Working On" width="90%" />
+</p>
 
 </p>
 <p align="center">
@@ -376,6 +383,13 @@ flowchart LR
   <a href="https://huggingface.co/hamza-0987">
     <img src="https://img.shields.io/badge/🤗%20HuggingFace-Profile-FFD21E?style=for-the-badge&logoColor=black" />
   </a>
+</p>
+
+<h3 align="center">📇 Visitor Log</h3>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hamza-0987.profile" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=hamza-0987&label=Views&color=00D9FF&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
