@@ -6,30 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=%E2%9E%9C+~+hamza+%E2%9C%97+whoami;AI+%26+MLOps+Engineer;%E2%9E%9C+~+hamza+%E2%9C%97+aws+%2B+terraform+--status;Active+%26+Orchestrated;%E2%9E%9C+~+hamza+%E2%9C%97+deploy+%2Fragservice;Deployment+Successful+%E2%9C%93" alt="Terminal Typing" />
 </p>
 
-<!-- galloping horse -->
-<pre align="center">
-              ,  ,.~""""""~..
-             )\,)\`-,       `~._                 __
-              \  \ | )           `~._           .'  ``._
- _/ ('  ( _(\            `~~,__________..-"'"          `-<
- )   )   `   )/)   )        \                           \
-') /)`      `\` \,-')/\      (                            \
-(_(\ /7      |.   /'  )'  _(`                              |
-    \\      (  `.     ')_/`                                |
-      \      `. `---'                                    /
-        \    /  \  .-'                                    /
-         '--'    /                                        /
-                 |  /~~.    _                              /
-                 |  \   `--)  \                            /
-                 |   \_       |                           /
-                 |     `-----'                           /
-                 |                                       /
-                  \                                     /
-                   \                                   /
-                    \                                 /
-                     ~~~~~~~~~~~~~~~~`````````~~~~~~~~
-</pre>
-
 <p align="center">
   <a href="https://github.com/hamza-0987?tab=followers">
     <img src="https://img.shields.io/github/followers/hamza-0987?label=Followers&style=for-the-badge&color=7B2FF7&labelColor=0d1117" />
