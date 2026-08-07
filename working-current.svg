@@ -27,10 +27,10 @@
   <rect x="44" y="70" width="632" height="4" rx="2" fill="url(#wstrip)" opacity="0.9"/>
 
   <text x="44" y="104" font-family="monospace" font-size="15" fill="#00d9ff">🔨 Working:</text>
-  <text x="150" y="104" font-family="monospace" font-size="15" fill="#e6edf3">Cloud Integrated Labelling Tool · Auto-Assigning</text>
+  <text x="180" y="104" font-family="monospace" font-size="15" fill="#e6edf3">Cloud Integrated Labelling Tool · Auto-Assigning</text>
 
   <text x="44" y="138" font-family="monospace" font-size="15" fill="#7b2ff7">🧠 Pipelines:</text>
-  <text x="150" y="138" font-family="monospace" font-size="15" fill="#e6edf3">ML &amp; CV classification + detection</text>
+  <text x="180" y="138" font-family="monospace" font-size="15" fill="#e6edf3">ML &amp; CV classification + detection</text>
 
   <text x="648" y="138" font-family="monospace" font-size="18" fill="#00d9ff" class="cursor">▊</text>
 </svg>
