@@ -1,283 +1,436 @@
-# hamza-0987
 
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
-> Python Developer & AI Engineer crafting scalable AI, MLOps, and cloud systems.
+# 👋 Hi, I'm Hamza
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=hamza-0987&theme=github-dark" alt="hamza-0987 hero section" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=%E2%9E%9C+~+hamza+%E2%9C%97+whoami;AI+%26+MLOps+Engineer;%E2%9E%9C+~+hamza+%E2%9C%97+aws+%2B+terraform+--status;Active+%26+Orchestrated;%E2%9E%9C+~+hamza+%E2%9C%97+deploy+%2Fragservice;Deployment+Successful+%E2%9C%93" alt="Terminal Typing" />
 </p>
 
-## Profile
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github&mode=light" />
-    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=animated&avatar=github" alt="GitSkins Animated Profile" width="820" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github&mode=light" />
-    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
-  </picture>
-</p>
-
-## About Me
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/about?username=hamza-0987&theme=github-dark" alt="hamza-0987 about section" />
-</p>
-
-## Focus
-I build **end-to-end** AI systems — from research to production.
-
-<p align="center">
-<svg viewBox="0 0 900 470" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Focus areas">
-  <rect width="900" height="470" rx="20" fill="#0d1117" stroke="#30363d"/>
-
-  <g transform="translate(0,0)">
-    <g>
-      <rect x="0" y="0" width="280" height="190" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="140" y="52" text-anchor="middle" font-size="26">🧠</text>
-      <text x="140" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Artificial Intelligence</text>
-      <line x1="40" y1="90" x2="240" y2="90" stroke="#bc8cff" stroke-width="2" stroke-linecap="round"/>
-      <text x="140" y="110" text-anchor="middle" font-size="11" fill="#8b949e">LLM · RAG · LangChain · AutoGen</text>
-      <text x="140" y="128" text-anchor="middle" font-size="11" fill="#8b949e">Groq · Neo4j graph RAG</text>
-      <text x="140" y="146" text-anchor="middle" font-size="11" fill="#8b949e">Multi-agent orchestration</text>
-      <text x="140" y="164" text-anchor="middle" font-size="11" fill="#8b949e">Text-to-SQL · chat assistants</text>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.15s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" begin="0.3s" repeatCount="indefinite"/>
-    </g>
-  </g>
-
-  <g transform="translate(310,0)">
-    <g>
-      <rect x="0" y="0" width="280" height="190" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="140" y="52" text-anchor="middle" font-size="26">🤖</text>
-      <text x="140" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">MLOps &amp; Pipelines</text>
-      <line x1="40" y1="90" x2="240" y2="90" stroke="#3fb950" stroke-width="2" stroke-linecap="round"/>
-      <text x="140" y="110" text-anchor="middle" font-size="11" fill="#8b949e">End-to-end anomaly detection</text>
-      <text x="140" y="128" text-anchor="middle" font-size="11" fill="#8b949e">Model training &amp; monitoring</text>
-      <text x="140" y="146" text-anchor="middle" font-size="11" fill="#8b949e">Cost &amp; health observability</text>
-      <text x="140" y="164" text-anchor="middle" font-size="11" fill="#8b949e">Performance diagnosis</text>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.27s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.2s" begin="0.5s" repeatCount="indefinite"/>
-    </g>
-  </g>
-
-  <g transform="translate(620,0)">
-    <g>
-      <rect x="0" y="0" width="280" height="190" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="140" y="52" text-anchor="middle" font-size="26">☁️</text>
-      <text x="140" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Cloud &amp; DevOps</text>
-      <line x1="40" y1="90" x2="240" y2="90" stroke="#58a6ff" stroke-width="2" stroke-linecap="round"/>
-      <text x="140" y="110" text-anchor="middle" font-size="11" fill="#8b949e">AWS · Lambda · S3 · IAM</text>
-      <text x="140" y="128" text-anchor="middle" font-size="11" fill="#8b949e">Batch · ETL pipelines</text>
-      <text x="140" y="146" text-anchor="middle" font-size="11" fill="#8b949e">Serverless · Terraform</text>
-      <text x="140" y="164" text-anchor="middle" font-size="11" fill="#8b949e">Cost &amp; ops management</text>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.39s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.4s" begin="0.7s" repeatCount="indefinite"/>
-    </g>
-  </g>
-
-  <g transform="translate(0,210)">
-    <g>
-      <rect x="0" y="0" width="280" height="190" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="140" y="52" text-anchor="middle" font-size="26">👁️</text>
-      <text x="140" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Computer Vision</text>
-      <line x1="40" y1="90" x2="240" y2="90" stroke="#f85149" stroke-width="2" stroke-linecap="round"/>
-      <text x="140" y="110" text-anchor="middle" font-size="11" fill="#8b949e">SAM · SAM2 · Depth Anything</text>
-      <text x="140" y="128" text-anchor="middle" font-size="11" fill="#8b949e">Segmentation · Detection</text>
-      <text x="140" y="146" text-anchor="middle" font-size="11" fill="#8b949e">OpenCV · Gemma · Gemini</text>
-      <text x="140" y="164" text-anchor="middle" font-size="11" fill="#8b949e">Supervision · Classification</text>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.51s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="2.9s" begin="0.9s" repeatCount="indefinite"/>
-    </g>
-  </g>
-
-  <g transform="translate(310,210)">
-    <g>
-      <rect x="0" y="0" width="280" height="190" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="140" y="52" text-anchor="middle" font-size="26">🎨</text>
-      <text x="140" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">TypeScript &amp; CSS</text>
-      <line x1="40" y1="90" x2="240" y2="90" stroke="#ffa657" stroke-width="2" stroke-linecap="round"/>
-      <text x="140" y="110" text-anchor="middle" font-size="11" fill="#8b949e">React · Next.js · Node</text>
-      <text x="140" y="128" text-anchor="middle" font-size="11" fill="#8b949e">Tailwind · Shadcn · Framer</text>
-      <text x="140" y="146" text-anchor="middle" font-size="11" fill="#8b949e">dashboards · portals · UIs</text>
-      <text x="140" y="164" text-anchor="middle" font-size="11" fill="#8b949e">vector (data) viz</text>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.63s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.3s" begin="1.1s" repeatCount="indefinite"/>
-    </g>
-  </g>
-
-  <g transform="translate(620,210)">
-    <g>
-      <rect x="0" y="0" width="280" height="190" rx="16" fill="#161b22" stroke="#30363d"/>
-      <text x="140" y="52" text-anchor="middle" font-size="26">🌍</text>
-      <text x="140" y="80" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Geospatial &amp; Agri-AI</text>
-      <line x1="40" y1="90" x2="240" y2="90" stroke="#39c5cf" stroke-width="2" stroke-linecap="round"/>
-      <text x="140" y="110" text-anchor="middle" font-size="11" fill="#8b949e">GPS Acreage · Field maps</text>
-      <text x="140" y="128" text-anchor="middle" font-size="11" fill="#8b949e">Crown tree segmentation</text>
-      <text x="140" y="146" text-anchor="middle" font-size="11" fill="#8b949e">Anomaly detection pipeline</text>
-      <text x="140" y="164" text-anchor="middle" font-size="11" fill="#8b949e">Agri data management</text>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.75s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.1s" begin="1.3s" repeatCount="indefinite"/>
-    </g>
-  </g>
-</svg>
-</p>
-
-## Skills
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=hamza-0987&theme=github-dark" alt="hamza-0987 stack section" />
-</p>
-
-## Achievements
-<p align="center">
-  <a href="https://github.com/hamza-0987?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Arctic_Code_Vault-Contributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Arctic Code Vault Contributor" />
-    <img src="https://img.shields.io/badge/Quickdraw-Unlocked-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <a href="https://github.com/hamza-0987?tab=followers">
+    <img src="https://img.shields.io/github/followers/hamza-0987?label=Followers&style=for-the-badge&color=7B2FF7&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/hamza-0987?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-44+-00D9FF?style=for-the-badge&logo=github&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/hamza-0987">
+    <img src="https://img.shields.io/badge/Techathon-Winner-FF0080?style=for-the-badge&logo=trophy&labelColor=0d1117" />
+  </a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fhamza-0987">
+    <img src="https://komarev.com/ghpvc/?username=hamza-0987&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0d1117" />
   </a>
 </p>
 
-## Recent Open Source Contribution
 <p align="center">
-  <a href="https://github.com/github/docs/pull/45446" target="_blank">
-    <img src="https://img.shields.io/badge/github%2Fdocs-PR%20%2345446-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="github/docs PR #45446" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00D9FF,50:7B2FF7,100:FF0080&height=80&section=header&text=~%20Systems%20That%20Ship%20~&fontSize=28&fontColor=00D9FF&fontAlignY=50" width="100%" />
+</p>
+
+## 🧭 About Me
+
+```yaml
+role: "AI & MLOps Engineer | Cloud Infrastructure Engineer | Computer Vision Engineer"
+focus: ["LLM Agents", "RAG Pipelines", "MLOps", "AWS Cloud", "Computer Vision"]
+primary_language: Python
+secondary_languages: ["JavaScript", "TypeScript", "SQL", "Bash"]
+cloud: ["AWS", "Azure", "GCP"]
+current: "Building production AI agents, RAG-as-a-Service & end-to-end ML systems"
+achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cloud Certs"]
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/bio-terminal.svg" alt="Bio Terminal Card" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/main/working-current.svg" alt="Currently Working On" width="90%" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/hamza-0987?achievement=arctic-code-vault-contributor">
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" alt="Arctic Code Vault Contributor" width="120" />
   </a>
 </p>
 
-## GitHub Stats
+> **Arctic Code Vault Contributor** — Your code was archived in the 2020 Arctic Code Vault during the GitHub Archive Program.
+
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-0987&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-0987&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FF7&point=FF0080" width="48%" />
+</p>
+
+<details>
+<summary>📈 Language Distribution (by bytes — real data)</summary>
+
+| Language | Size | Usage |
+|---|---|---|
+| 🐍 Python | **11.39 MB** | AI/ML, backend, cloud automation |
+| 📓 Jupyter Notebook | **16.11 MB** | ML experiments & research |
+| 🌐 JavaScript | **6.7 MB** | React / Node frontends |
+| 🔷 TypeScript | **2.5 MB** | Typed frontend tooling |
+| Others | — | C#, Java, C, HTML, CSS, SCSS, Shell, Dockerfile, Bicep, HCL, T-SQL |
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🦅 <a href="https://github.com/hamza-0987/shaheenai">shaheenai</a></h3>
+      <p><b>Multi-LLM Agent Library</b> — plug-in provider architecture (OpenAI / Anthropic / Ollama / Cohere) with self-reflection, tool invocation & task chaining.</p>
+      <img src="https://img.shields.io/badge/LLM_Agents-Advanced-7B2FF7?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3>📚 <a href="https://github.com/hamza-0987/RAG-AS-A-SERVICE">RAG-AS-A-SERVICE</a></h3>
+      <p><b>Retrieval-Augmented Generation API</b> — production-ready endpoints powering groq-rag, text2sql & semantic search backends.</p>
+      <img src="https://img.shields.io/badge/RAG-Service-00D9FF?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/LangChain-FF0080?style=flat-square&logo=langchain&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌳 crown-tree-segmentation</h3>
+      <p><b>SAM2 + Depth Anything</b> for crown/tree segmentation on drone imagery. Geospatial & agricultural CV pipeline.</p>
+      <img src="https://img.shields.io/badge/SAM2-FF6B6B?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Depth_Anything-4ECDC4?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🌾 <a href="https://github.com/hamza-0987">GPS-Acre</a></h3>
+      <p><b>End-to-end agri-analytics platform</b> — EventBridge + SQS + Step Functions + Athena + S3. Plant counting & canola pipeline.</p>
+      <img src="https://img.shields.io/badge/AWS-Event_Driven-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📡 metrics-dashboard</h3>
+      <p><b>Cloud observability platform</b> — Terraform + CloudFormation + Serverless Framework. Cost/health monitoring & traceability.</p>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 <a href="https://github.com/hamza-0987/openai-agent-sdk">openai-agent-sdk</a></h3>
+      <p><b>Agent SDK workbench</b> — news summarization agents, extensible tools, MCP connectivity.</p>
+      <img src="https://img.shields.io/badge/OpenAI-SDK-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-Connected-00D9FF?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>📂 Full Project Index (44+ repos)</summary>
+
+| Domain | Repositories |
+|---|---|
+| **AI Agents / LLM** | shaheenai, openai-agent-sdk, multi-agent-system, shaheen-jarvis, jarvis, gemini-chatbot-flask, terminal_ai_groq, groq-rag, groq-gradio, groq-autogen-studio-config |
+| **RAG / MCP** | RAG-AS-A-SERVICE, easy-rag, neo4j-rag-example, text2sql, mcp, mcptest2, lenai |
+| **Computer Vision** | crown-tree-segmentation-*, gemini-based-computer-vision-segmentation, dots.-ocr, supervision-experiments, AIProject-BridgeSign, plant-count-classifier, Eye-Disease-Classification, shape-identifier |
+| **ML / Health / Finance** | Lung_Cancer_ML, diabetes-prediction-model, ML_Heart_Health_Prediction, stocksage, Malware-Detection-Using-API-Calls, scam_detector_ml, ml-performance-diagnosis-assistant |
+| **Cloud / Data** | GPS-Acre, AWS-Batch-GPS-Acre, spotify-ETL-pipeline-*, metrics-dashboard, advance-data-manager, floci-local-aws-setup, farmevo-datamanager |
+| **Frontend** | portfolio_hamza0987, OptiRecruit, IntelliHire, Trendzz, Ecommerce-Store, shaheenviz, schema-viewer, Online-Books-Library |
+| **AgriCV** | canola_pipeline, gps_acre_latest, plant count classifier |
+
+</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 🧠 Skill Matrix
+
+### ☁️ Cloud & Infrastructure
+
+| Skill | Level | Evidence |
+|---|---|---|
+| AWS Compute (EC2 / Lambda / Batch) | ![Advanced](https://img.shields.io/badge/Advanced-FF9900?style=flat-square) | AWS-Batch-GPS-Acre, spotify-ETL-pipeline-* |
+| AWS Messaging (EventBridge / SQS / SNS) | ![Advanced](https://img.shields.io/badge/Advanced-FF9900?style=flat-square) | GPS-Acre, spotify-ETL-pipeline-* |
+| AWS Storage (S3) | ![Advanced](https://img.shields.io/badge/Advanced-FF9900?style=flat-square) | GPS-Acre, spotify-ETL-pipeline-* |
+| AWS Analytics (Athena) | ![Advanced](https://img.shields.io/badge/Advanced-FF9900?style=flat-square) | metrics-dashboard, GPS-Acre |
+| AWS Step Functions | ![Advanced](https://img.shields.io/badge/Advanced-FF9900?style=flat-square) | GPS-Acre, AWS-Batch-GPS-Acre |
+| AWS IAM & Security | ![Advanced](https://img.shields.io/badge/Advanced-FF9900?style=flat-square) | metrics-dashboard, GPS-Acre |
+| Terraform | ![Advanced](https://img.shields.io/badge/Advanced-7B42BC?style=flat-square) | metrics-dashboard, advance-data-manager |
+| CloudFormation | ![Advanced](https://img.shields.io/badge/Advanced-FF4F8B?style=flat-square) | metrics-dashboard, AWS-Batch-GPS-Acre |
+| Serverless Framework | ![Advanced](https://img.shields.io/badge/Advanced-00D9FF?style=flat-square) | metrics-dashboard, spotify-ETL-pipeline-* |
+| Azure Functions & Blob | ![Intermediate](https://img.shields.io/badge/Intermediate-4ECDC4?style=flat-square) | advance-data-manager |
+| GCP Service Accounts | ![Intermediate](https://img.shields.io/badge/Intermediate-4ECDC4?style=flat-square) | advance-data-manager |
+| Docker & CI/CD | ![Advanced](https://img.shields.io/badge/Advanced-2496ED?style=flat-square) | GPS-Acre, canola_pipeline, BahriaAI |
+
+### 🤖 AI / MLOps
+
+| Skill | Level | Evidence |
+|---|---|---|
+| Multi-LLM Agent Library | ![Advanced](https://img.shields.io/badge/Advanced-7B2FF7?style=flat-square) | shaheenai |
+| OpenAI Agent SDK | ![Advanced](https://img.shields.io/badge/Advanced-412991?style=flat-square) | openai-agent-sdk |
+| RAG as a Service | ![Advanced](https://img.shields.io/badge/Advanced-00D9FF?style=flat-square) | RAG-AS-A-SERVICE, groq-rag, text2sql |
+| Groq / Gemini Integration | ![Advanced](https://img.shields.io/badge/Advanced-FF0080?style=flat-square) | terminal_ai_groq, groq-gradio, gemini-chatbot-flask |
+| Autogen / Multi-Agent | ![Intermediate](https://img.shields.io/badge/Intermediate-4ECDC4?style=flat-square) | multi-agent-system, groq-autogen-studio-config |
+| MCP Servers | ![Intermediate](https://img.shields.io/badge/Intermediate-4ECDC4?style=flat-square) | mcp, mcptest2, lenai |
+| ML Performance Diagnosis | ![Advanced](https://img.shields.io/badge/Advanced-7B2FF7?style=flat-square) | ml-performance-diagnosis-assistant |
+| Classification / Regression | ![Advanced](https://img.shields.io/badge/Advanced-7B2FF7?style=flat-square) | Lung_Cancer_ML, diabetes-prediction-model, stocksage |
+
+### 👁️ Computer Vision
+
+| Skill | Level | Evidence |
+|---|---|---|
+| SAM2 + Depth Anything | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | crown-tree-segmentation-*, supervision-experiments |
+| Semantic Segmentation | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | gemini-based-computer-vision-segmentation |
+| Grounding DINO / YOLO | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | gps_acre_latest, canola_pipeline, Eye-Disease-Classification |
+| SAM / Mobile SAM | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | AIProject-BridgeSign |
+| OCR Pipelines | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | dots.-ocr |
+| OpenCV / Super-Res / GAN | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | Multiple CV repos |
+| Agricultural Analytics | ![Advanced](https://img.shields.io/badge/Advanced-FF6B6B?style=flat-square) | canola_pipeline, gps_acre_latest |
+
+### 💻 Languages & Frameworks
+
+| Language | Level | Primary Use |
+|---|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Advanced | AI/ML, backend, cloud automation |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Advanced | Research & experimentation |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Advanced | React / Node frontends |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Intermediate | Typed tooling |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Advanced | text2sql, Hasura stack |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | Advanced | API data layer |
+| SQL | Advanced | text2sql, streamlit_data_wrangling |
+| Bash / Shell | Intermediate | Automation & infra scripting |
+| Java / C / C# / Kotlin | Intermediate → Basic | Academic & systems work |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,aws,terraform,react,nextjs,typescript,postgres,graphql&perline=12" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hasura-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+🏆 Achievements & Certifications
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🥇-Winner-FFD700?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>Techathon 1.0 Winner</b><br/>
+<sub>Data Wrangling Track</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🎓-Degree-List?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>Bahria University Karachi</b><br/>
+<sub>Academic Recognition</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🚀-Pioneer-7B2FF7?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>Techathon 1.0 @ BUDS</b><br/>
+<sub>Founder & Organizer</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+🎓 Education & Leadership
+<table>
+<tr>
+<td width="50%">
+<h3>🏛️ Bahria University, Karachi Campus</h3>
+<p><b>Academic Recognition:</b> Dean's List</p>
+<p><b>Focus:</b> Computer Science & Artificial Intelligence</p>
+</td>
+<td width="50%">
+<h3>🎤 Technical Guest Speaker</h3>
+<p>Delivered technical sessions on <b>Agentic AI, RAG, and Prompt Engineering</b> at university level, bridging the gap between academic theory and industry-grade MLOps.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>👑 Head of BUDS</h3>
+<p><b>Bahria University Developer Society (BUDS)</b></p>
+<p>Led the premier tech society, fostering a community of developers, organizing tech-talks, and mentoring peers in modern software development.</p>
+</td>
+<td width="50%">
+<h3>🚀 Pioneer of Techathon 1.0</h3>
+<p>Founded and organized <b>Techathon 1.0</b> at BUDS. Designed the data wrangling tracks and technical infrastructure for the event.</p>
+</td>
+</tr>
+</table>
+
+
+
+## 🏗️ System Architecture
+
+<details>
+<summary>🔧 Typical End-to-End AI/Cloud Pipeline (click to expand)</summary>
+
+```mermaid
+flowchart LR
+    A[📱 Client / React+Next.js] --> B[🌐 API Gateway]
+    B --> C{🤖 RAG Service}
+    C --> D[(🧠 Vector Store)]
+    C --> E[LLM Provider<br/>OpenAI/Groq/Gemini]
+    C --> F[MCP Tool Servers]
+
+    B --> G[EventBridge]
+    G --> SQS[SQS]
+    G --> SNS[SNS]
+    SQS --> L[λ Lambda]
+    L --> S3[(🗄️ S3)]
+    L --> SF[Step Functions]
+    SF --> BATCH[AWS Batch]
+    S3 --> ATH[(📊 Athena)]
+
+    L --> CV[👁️ CV Pipeline<br/>SAM2 + Depth Anything<br/>YOLO + Grounding DINO]
+    CV --> S3
+
+    subgraph Observability
+        M[metrics-dashboard<br/>Terraform + CFN]
+    end
+
+    style C fill:#7B2FF7,color:#fff
+    style CV fill:#FF6B6B,color:#fff
+    style S3 fill:#FF9900,color:#fff
+    style L fill:#FF4F8B,color:#fff
+```
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-0987&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FF7&point=FF0080&width=900" width="100%" />
+</p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=stats&avatar=github&mode=light" />
-    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=stats&avatar=github" alt="GitSkins Stats Card" width="600" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=languages&avatar=github&mode=light" />
-    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=languages&avatar=github" alt="GitSkins Languages" width="450" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=streak&avatar=github&mode=light" />
-    <img src="https://www.gitskins.com/api/premium-card?username=hamza-0987&theme=github-dark&variant=streak&avatar=github" alt="GitSkins Streak" width="600" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-0987/hamza-0987/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-0987/hamza-0987/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hamza-0987/hamza-0987/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-## Featured Projects
-End-to-end work I have shipped across AI, MLOps, cloud, and computer vision.
-
-| Project | Stack | What it does |
-| --- | --- | --- |
-| [multi-agent-system](https://github.com/hamza-0987/multi-agent-system) | Python | Multi-agent system with AutoGen Studio, Groq LLM & MCP integration |
-| [easy-rag](https://github.com/hamza-0987/easy-rag) | Python | Simple RAG for grounding LLMs on documents |
-| [neo4j-rag-example](https://github.com/hamza-0987/neo4j-rag-example) | Jupyter | Graph-based RAG on Neo4j |
-| [gemini-based-computer-vision-segmentation](https://github.com/hamza-0987/gemini-based-computer-vision-segmentation) | TypeScript | CV segmentation driven by Gemini |
-| [crown-tree-segmentation-code-using-depth-anything-and-SAM2](https://github.com/hamza-0987/crown-tree-segmentation-code-using-depth-anything-and-SAM2) | Python | Crown tree segmentation with Depth Anything + SAM2 |
-| [AWS-Batch-GPS-Acre](https://github.com/hamza-0987/AWS-Batch-GPS-Acre) | Python | GPS acreage on AWS Batch |
-| [spotify-ETL-pipeline-Using-S3-lambda-functions](https://github.com/hamza-0987/spotify-ETL-pipeline-Using-S3-lambda-functions) | Jupyter | ETL pipeline on S3 + Lambda |
-| [Eye-Disease-Classification](https://github.com/hamza-0987/Eye-Disease-Classification) | Python | Eye disease image classification |
-
-## Recent Work
-Work I shipped end to end, animated.
-
+<h3 align="center">🌃 Contribution Skyline</h3>
 <p align="center">
-<svg viewBox="0 0 900 560" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Recent work timeline">
-  <defs>
-    <linearGradient id="cg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff"/><stop offset="100%" stop-color="#bc8cff"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="900" height="560" rx="20" fill="#0d1117" stroke="#30363d"/>
-
-  <rect x="0" y="0" width="900" height="42" rx="20" fill="#161b22"/>
-  <rect x="0" y="20" width="900" height="22" fill="#161b22"/>
-  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
-  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
-  <circle cx="66" cy="21" r="6" fill="#28c840"/>
-  <text x="450" y="27" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#8b949e">hamza@hamza-0987: ~/work</text>
-
-  <text x="28" y="72" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#58a6ff">$</text>
-  <text x="46" y="72" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" fill="#c9d1d9">git log --oneline</text>
-  <rect x="202" y="58" width="9" height="16" fill="#58a6ff">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
-
-  <rect x="0" y="42" width="900" height="2" fill="url(#cg)" opacity="0">
-    <animate attributeName="y" values="42;558" dur="2.2s" begin="0.3s" fill="freeze"/>
-    <animate attributeName="opacity" values="0;0.45;0" dur="2.2s" begin="0.3s" fill="freeze"/>
-  </rect>
-
-  <line x1="64" y1="112" x2="64" y2="452" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
-
-  <g>
-    <circle cx="64" cy="130" r="8" fill="#3fb950" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="130" r="4.5" fill="#3fb950"/>
-    <text x="92" y="126" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">Multi-Agent System</text>
-    <text x="92" y="142" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">AutoGen Studio + Groq LLM + MCP integration</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.15s" fill="freeze"/>
-  </g>
-
-  <g>
-    <circle cx="64" cy="178" r="8" fill="#58a6ff" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" begin="0.2s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="178" r="4.5" fill="#58a6ff"/>
-    <text x="92" y="174" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">RAG &amp; Graph Retrieval</text>
-    <text x="92" y="190" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">easy-rag + Neo4j graph RAG examples</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.24s" fill="freeze"/>
-  </g>
-
-  <g>
-    <circle cx="64" cy="226" r="26" fill="#bc8cff" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="226" r="4.5" fill="#bc8cff"/>
-    <text x="92" y="222" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">Computer Vision Segmentation</text>
-    <text x="92" y="238" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">Gemini CV + SAM2 + Depth Anything + OpenCV</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.33s" fill="freeze"/>
-  </g>
-
-  <g>
-    <circle cx="64" cy="274" r="26" fill="#f85149" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="274" r="4.5" fill="#f85149"/>
-    <text x="92" y="270" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">GPS Acreage &amp; Agri-AI</text>
-    <text x="92" y="286" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">GPS Acres on AWS Batch + agri data mgmt</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.42s" fill="freeze"/>
-  </g>
-
-  <g>
-    <circle cx="64" cy="322" r="26" fill="#d29922" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="322" r="4.5" fill="#d29922"/>
-    <text x="92" y="318" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">MLOps Pipelines</text>
-    <text x="92" y="334" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">Anomaly detection + observability pipeline</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.51s" fill="freeze"/>
-  </g>
-
-  <g>
-    <circle cx="64" cy="370" r="26" fill="#3fb950" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" begin="1s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="370" r="4.5" fill="#3fb950"/>
-    <text x="92" y="366" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">Cloud ETL Pipelines</text>
-    <text x="92" y="382" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">Spotify ETL on S3 + Lambda</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
-  </g>
-
-  <g>
-    <circle cx="64" cy="418" r="26" fill="#58a6ff" opacity="0.25"><animate attributeName="opacity" values="0.25;0.6;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
-    <circle cx="64" cy="418" r="4.5" fill="#58a6ff"/>
-    <text x="92" y="414" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#e6edf3">ML Products</text>
-    <text x="92" y="430" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8b949e">Eye disease classification + scam detection</text>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.69s" fill="freeze"/>
-  </g>
-
-  <rect x="28" y="486" width="844" height="1.5" fill="#21262d"/>
-  <rect x="28" y="486" width="0" height="1.5" fill="url(#cg)">
-    <animate attributeName="width" from="0" to="844" dur="1.2s" begin="1s" fill="freeze"/>
-  </rect>
-  <text x="28" y="514" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#58a6ff">
-    <tspan fill="#8b949e">❯</tspan> <a href="https://github.com/hamza-0987?tab=repositories" target="_blank">browse my repositories on GitHub</a>
-    <animate attributeName="opacity" values="1;1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
-  </text>
-</svg>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
-## Connect
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=hamza-0987&theme=github-dark" alt="hamza-0987 social section" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/hamza-0987">
+    <img src="https://img.shields.io/badge/GitHub-hamza--0987-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-0987">
+    <img src="https://img.shields.io/badge/LinkedIn-Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hamza@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/hamza-0987">
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Profile-FFD21E?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
+
+<h3 align="center">📇 Visitor Log</h3>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hamza-0987.profile" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=hamza-0987&label=Views&color=00D9FF&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+📜 Professional Certifications
+<p align="center">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepLearning.AI-00D9FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Great_Learning-00857C?style=for-the-badge&logoColor=white" />
+</p>
+
+
+
+Credentials spanning Machine Learning, Generative AI, and Cloud Infrastructure.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:FF0080&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/hamza-0987">hamza-0987</a> — building AI systems that ship. ⭐️</i>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20Coffee-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Last%20Updated-2025-00D9FF?style=flat-square" />
+</p>
+
+
+
+
