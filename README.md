@@ -59,6 +59,14 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 
 > **Arctic Code Vault Contributor** — Your code was archived in the 2020 Arctic Code Vault during the GitHub Archive Program.
 
+## 🤝 Recent Open Source Contribution
+
+<p align="center">
+  <a href="https://github.com/github/docs/pull/45446">
+    <img src="https://img.shields.io/badge/Open_Source_Contribution-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contribution" />
+  </a>
+</p>
+
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
