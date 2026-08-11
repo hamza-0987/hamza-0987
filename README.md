@@ -55,9 +55,13 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
   <a href="https://github.com/hamza-0987?achievement=arctic-code-vault-contributor">
     <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" alt="Arctic Code Vault Contributor" width="120" />
   </a>
+  <a href="https://github.com/hamza-0987?achievement=quickdraw">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="120" />
+  </a>
 </p>
 
 > **Arctic Code Vault Contributor** — Your code was archived in the 2020 Arctic Code Vault during the GitHub Archive Program.
+> **Quickdraw** — Closed an issue or pull request within 5 minutes of opening it.
 
 ## 🤝 Recent Open Source Contribution
 
@@ -76,7 +80,7 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-0987&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=hamza-0987&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
