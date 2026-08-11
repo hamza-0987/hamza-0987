@@ -80,11 +80,6 @@ achievements: ["Techathon Data Wrangling Winner", "Dean's List", "Google ML & Cl
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=hamza-0987&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-0987&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FF7&point=FF0080" width="48%" />
 </p>
 
